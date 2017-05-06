@@ -23,3 +23,5 @@ the diagram the way we do?
     easy to understand
 
 What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges manually?
+    Pros: warns us before accidently overriding changes
+    Cons: could get frustrating to resolve the conflicts manually
